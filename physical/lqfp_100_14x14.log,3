@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LQFP_100_14x14.dra                            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Apr 10 11:29:04 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = lqfp_100_14x14.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

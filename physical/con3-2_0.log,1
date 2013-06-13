@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CON3-2_0.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Apr 10 17:05:21 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = con3-2_0.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

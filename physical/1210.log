@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 1210.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Apr 13 11:22:41 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = 1210.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

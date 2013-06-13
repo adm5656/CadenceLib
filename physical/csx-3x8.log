@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : csx-3x8.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Apr 12 17:25:23 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = csx-3x8.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

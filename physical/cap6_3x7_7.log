@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : cap6_3x7_7.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 11 14:59:56 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = cap6_3x7_7.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

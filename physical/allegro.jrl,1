@@ -1,0 +1,90 @@
+\t (00:17:47) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:17:47)     Journal start - Thu Jun 13 09:51:32 2013
+\t (00:17:47)         Host=CORE-PC User=core Pid=1096 CPUs=8
+\t (00:17:47) 
+\d (00:17:47) Database opened: F:/workspace/cadence_lib_file/physical/CASE403A-03.dra
+\i (00:17:47) generaledit 
+\i (00:17:50) open 
+\i (00:18:01) fillin "DO-214AC-D.dra"
+\t (00:18:01) Opening existing design...
+\i (00:18:01) trapsize 1608
+\d (00:18:01) Database opened: F:/workspace/cadence_lib_file/physical/DO-214AC-D.dra
+\i (00:18:01) generaledit 
+\e (00:18:10) Command not found: xhilite
+\i (00:18:10) xname_flush 
+\i (00:18:10) done 
+\i (00:18:10) generaledit 
+\e (00:18:40) Command not found: xdehilite
+\i (00:18:40) xname_flush 
+\i (00:18:40) done 
+\i (00:18:40) generaledit 
+\e (00:18:42) Command not found: xhilite
+\i (00:18:42) xname_flush 
+\i (00:18:42) done 
+\i (00:18:42) generaledit 
+\e (00:18:52) Command not found: xdehilite
+\i (00:18:52) xname_flush 
+\i (00:18:52) done 
+\i (00:18:52) generaledit 
+\e (00:19:03) Command not found: xhilite
+\i (00:19:03) xname_flush 
+\i (00:19:03) done 
+\i (00:19:03) generaledit 
+\e (00:19:35) Command not found: xdehilite
+\i (00:19:35) xname_flush 
+\i (00:19:35) done 
+\i (00:19:35) generaledit 
+\e (00:19:37) Command not found: xhilite
+\i (00:19:37) xname_flush 
+\i (00:19:37) done 
+\i (00:19:37) generaledit 
+\e (00:19:46) Command not found: xdehilite
+\i (00:19:46) xname_flush 
+\i (00:19:46) done 
+\i (00:19:46) generaledit 
+\e (00:19:50) Command not found: xhilite
+\i (00:19:50) xname_flush 
+\i (00:19:50) done 
+\i (00:19:50) generaledit 
+\e (00:19:53) Command not found: xdehilite
+\i (00:19:53) xname_flush 
+\i (00:19:53) done 
+\e (00:19:53) Command not found: xhilite
+\i (00:19:53) xname_flush 
+\e (00:19:53) No command active
+\i (00:19:53) done 
+\e (00:19:53) No command active
+\i (00:19:53) generaledit 
+\e (00:20:00) Command not found: xdehilite
+\i (00:20:00) xname_flush 
+\i (00:20:00) done 
+\i (00:20:00) generaledit 
+\e (00:20:01) Command not found: xhilite
+\i (00:20:01) xname_flush 
+\i (00:20:01) done 
+\i (00:20:01) generaledit 
+\e (00:20:07) Command not found: xdehilite
+\i (00:20:07) xname_flush 
+\i (00:20:07) done 
+\i (00:20:07) generaledit 
+\e (00:20:18) Command not found: xhilite
+\i (00:20:18) xname_flush 
+\i (00:20:18) done 
+\i (00:20:18) generaledit 
+\e (00:20:45) Command not found: xdehilite
+\i (00:20:45) xname_flush 
+\i (00:20:45) done 
+\i (00:20:45) generaledit 
+\e (00:20:47) Command not found: xhilite
+\i (00:20:47) xname_flush 
+\i (00:20:47) done 
+\i (00:20:47) generaledit 
+\i (00:51:00) opencd F:/workspace/PowerWorkSpace/gu10/worklib/char/physical/char.brd 
+\t (00:51:00) Opening existing design...
+\i (00:51:02) fillin yes 
+\t (00:51:02) Grids are drawn 16.000, 16.000 apart for enhanced viewability.
+\i (00:51:02) trapsize 5894
+\i (00:51:02) trapsize 5728
+\i (00:51:02) trapsize 5894
+\i (00:51:02) trapsize 5894
+\t (00:51:02)     Journal end - Thu Jun 13 10:24:47 2013

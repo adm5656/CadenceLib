@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ACM2012-2P.dra                                )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Apr 10 14:56:06 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = acm2012-2p.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

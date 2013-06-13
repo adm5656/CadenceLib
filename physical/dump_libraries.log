@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jun 09 15:28:19 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/workspace/PowerWorkSpace/Library/physical/symbol/ee13-6.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  PAD60CIR30D being dumped.
+
+  PAD60CIR35D being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                2
+
+Total number of symbols dumped:            0
+*****************************************************
+

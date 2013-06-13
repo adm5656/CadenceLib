@@ -1,0 +1,28 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Apr 13 11:24:41 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: F:/workspace/cadence_lib_file/xilinx_lib/sot_23.dra ***
+
+
+
+  *** Creating padstacks. ***
+
+  R40_55 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:                1
+
+Total number of symbols dumped:            0
+*****************************************************
+

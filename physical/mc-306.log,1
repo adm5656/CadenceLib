@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mc-306.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Apr 09 14:34:03 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/workspace/cadence_lib_file/physical
+    Name      = mc-306.psm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+ ERROR(SPMHDB-370): Symbol is not a jumper. [help] 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
