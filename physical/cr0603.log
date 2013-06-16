@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CR0603.dra                                    )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Jun 15 19:16:54 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = G:/dbank/CadenceLib/physical
+    Name      = cr0603.psm
+    User      = adm5656
+    Machine   = ADM5656-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

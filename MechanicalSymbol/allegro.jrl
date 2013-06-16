@@ -1,0 +1,137 @@
+\t (00:18:59) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:18:59)     Journal start - Sun Jun 16 16:25:17 2013
+\t (00:18:59)         Host=ADM5656-PC User=adm5656 Pid=9892 CPUs=4
+\t (00:18:59) 
+\d (00:18:59) Database opened: G:/dbank/CadenceLib/MechanicalSymbol/brd50x80.dra
+\i (00:18:59) generaledit 
+\i (00:19:05) save_as 
+\i (00:19:13) fillin "brd50x80_a.dra"
+\t (00:19:13) Symbol 'brd50x80_a.bsm' created.
+\i (00:19:13) generaledit 
+\i (00:19:14) zoom in 1 
+\i (00:19:14) setwindow pcb
+\i (00:19:14) zoom in 12.5368 -6.7651
+\i (00:19:14) trapsize 5150
+\i (00:19:14) zoom in 1 
+\i (00:19:14) setwindow pcb
+\i (00:19:14) zoom in 11.8158 -5.5290
+\i (00:19:14) trapsize 2575
+\i (00:19:15) pick grid 4.6054 -3.2113
+\t (00:19:15) last pick:  4.6000  -3.2000
+\i (00:19:15) prepopup 4.6054 -3.2113
+\i (00:19:17) pop dyn_option_select @:@Move 
+\i (00:19:17) move 
+\t (00:19:17) last pick:  4.6000  -3.2000
+\t (00:19:17) last pick:  3.0000  -3.0000
+\t (00:19:17) Pick new location for the element(s).
+\i (00:19:25) pick 22 -3 
+\t (00:19:25) last pick:  22.0000  -3.0000
+\i (00:19:26) generaledit 
+\i (00:19:28) pick grid 4.2449 -2.9538
+\t (00:19:28) last pick:  4.2000  -3.0000
+\i (00:19:28) pick grid 5.3780 -4.9624
+\t (00:19:28) last pick:  5.4000  -5.0000
+\i (00:19:29) prepopup 5.3780 -4.9624
+\i (00:19:30) pop dyn_option_select @:@Move 
+\i (00:19:30) move 
+\t (00:19:30) last pick:  5.4000  -5.0000
+\t (00:19:30) last pick:  5.4000  -5.0000
+\t (00:19:30) Element has no origin, using pick.
+\t (00:19:30) Pick new location for the element(s).
+\i (00:19:35) pick 22 -3 
+\t (00:19:35) last pick:  22.0000  -3.0000
+\i (00:19:35) generaledit 
+\i (00:19:38) drag_start grid 17.8417 -3.1083
+\i (00:19:38) move 
+\t (00:19:38) last pick:  17.8000  -3.1000
+\t (00:19:38) Element has no origin, using pick.
+\t (00:19:38) Pick new location for the element(s).
+\i (00:19:41) drag_stop grid 20.1594 -5.1684
+\i (00:19:41) generaledit 
+\i (00:19:42) zoom in 1 
+\i (00:19:42) setwindow pcb
+\i (00:19:42) zoom in 22.2710 -2.5418
+\i (00:19:42) trapsize 1288
+\i (00:19:43) pick grid 15.4726 -5.7607
+\t (00:19:43) last pick:  15.5000  -5.8000
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 15.4726 -5.7607
+\i (00:19:44) trapsize 2575
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 15.4727 -5.7607
+\i (00:19:44) trapsize 5150
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 14.4426 -10.2931
+\i (00:19:44) trapsize 10301
+\i (00:19:45) zoom in 1 
+\i (00:19:45) setwindow pcb
+\i (00:19:45) zoom in 3.7299 -51.7016
+\i (00:19:45) trapsize 5150
+\i (00:19:45) zoom in 1 
+\i (00:19:45) setwindow pcb
+\i (00:19:45) zoom in 3.7299 -51.7015
+\i (00:19:45) trapsize 2575
+\i (00:19:46) pick grid 3.6785 -47.7358
+\t (00:19:46) last pick:  3.7000  -47.7000
+\i (00:19:47) prepopup 3.6785 -47.7358
+\i (00:19:48) pop dyn_option_select @:@Move 
+\i (00:19:48) move 
+\t (00:19:48) last pick:  3.7000  -47.7000
+\t (00:19:48) last pick:  3.0000  -47.0000
+\t (00:19:48) Pick new location for the element(s).
+\i (00:19:54) pick 22 -47 
+\t (00:19:54) last pick:  22.0000  -47.0000
+\i (00:19:54) generaledit 
+\i (00:19:55) pick grid 15.7302 -45.7272
+\t (00:19:55) last pick:  15.7000  -45.7000
+\i (00:19:56) drag_start grid 5.7386 -47.9418
+\i (00:19:56) move 
+\t (00:19:56) last pick:  5.7000  -47.9000
+\t (00:19:56) Element has no origin, using pick.
+\t (00:19:56) Pick new location for the element(s).
+\i (00:20:00) drag_stop grid 24.6917 -47.9418
+\i (00:20:00) generaledit 
+\i (00:20:00) pick grid 24.4342 -52.3711
+\t (00:20:00) last pick:  24.4000  -52.4000
+\i (00:20:01) zoom in 1 
+\i (00:20:01) setwindow pcb
+\i (00:20:01) zoom in 23.7647 -47.8903
+\i (00:20:01) trapsize 1288
+\i (00:20:01) zoom in 1 
+\i (00:20:01) setwindow pcb
+\i (00:20:01) zoom in 23.7647 -47.8902
+\i (00:20:01) trapsize 644
+\i (00:20:02) zoom out 1 
+\i (00:20:02) setwindow pcb
+\i (00:20:02) zoom out 22.1038 -46.9374
+\i (00:20:02) trapsize 1288
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 22.1037 -46.9374
+\i (00:20:03) trapsize 2575
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 22.1038 -46.9374
+\i (00:20:03) trapsize 5150
+\i (00:20:03) zoom out 1 
+\i (00:20:03) setwindow pcb
+\i (00:20:03) zoom out 22.1038 -46.9375
+\i (00:20:03) trapsize 10301
+\i (00:20:04) zoom in 1 
+\i (00:20:04) setwindow pcb
+\i (00:20:04) zoom in 20.6616 -19.5378
+\i (00:20:04) trapsize 5150
+\i (00:20:06) save 
+\i (00:20:08) fillin yes 
+\t (00:20:08) Symbol 'brd50x80_a.bsm' created.
+\i (00:20:08) generaledit 
+\i (00:20:12) opencd G:/dbank/HRD/LED_DISPLAY/LED2013/hrd_dp13A_sch_pcb/hrd_dp13a.brd 
+\t (00:20:13) Opening existing design...
+\i (00:20:13) trapsize 5150
+\i (00:20:13) trapsize 5006
+\i (00:20:13) trapsize 5150
+\i (00:20:13) trapsize 5150
+\t (00:20:13)     Journal end - Sun Jun 16 16:26:31 2013

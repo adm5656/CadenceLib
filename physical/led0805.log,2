@@ -4,16 +4,16 @@
 (                                                                     )
 (    Drawing          : led0805.dra                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Sat Apr 13 10:25:26 2013                      )
+(    Date/Time        : Sun Jun 16 10:57:44 2013                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = F:/workspace/cadence_lib_file/physical
+    Directory = G:/dbank/CadenceLib/physical
     Name      = led0805.psm
-    User      = core
-    Machine   = CORE-PC
+    User      = adm5656
+    Machine   = ADM5656-PC
 
 
 Create symbol started.

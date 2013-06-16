@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : mc-306.dra                                    )
+(    Drawing          : brd50x80_a.dra                                )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Tue Apr 09 14:37:40 2013                      )
+(    Date/Time        : Sun Jun 16 16:26:26 2013                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: PACKAGE
-    Directory = F:/workspace/cadence_lib_file/physical
-    Name      = mc-306.psm
-    User      = core
-    Machine   = CORE-PC
+Create Symbol of type: MECHANICAL
+    Directory = G:/dbank/CadenceLib/MechanicalSymbol
+    Name      = brd50x80_a.bsm
+    User      = adm5656
+    Machine   = ADM5656-PC
 
 
 Create symbol started.

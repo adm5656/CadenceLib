@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : brd50x80.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Jun 16 16:22:04 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = G:/dbank/CadenceLib/MechanicalSymbol
+    Name      = brd50x80.bsm
+    User      = adm5656
+    Machine   = ADM5656-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

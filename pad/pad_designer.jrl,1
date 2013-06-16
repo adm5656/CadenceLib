@@ -1,17 +1,20 @@
-\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
-\t (00:00:00)     Journal start - Thu Jun 06 11:06:24 2013
-\t (00:00:00)         Host=CORE-PC User=core Pid=4976 CPUs=8
-\t (00:00:00) 
-\i (00:00:01) setwindow form.padedit
-\i (00:00:01) FORM padedit layers  
-\i (00:00:02) FORM padedit parameters  
-\i (00:00:04) pse_open 
-\i (00:00:06) fillin "dip_circle_55_40.pad"
-\i (00:00:08) FORM padedit layers  
-\i (00:00:33) FORM padedit grid row soldermask_top 
-\i (00:00:34) FORM padedit grid row soldermask_bottom 
-\i (00:00:34) FORM padedit grid row soldermask_top 
-\i (00:00:35) FORM padedit grid row soldermask_bottom 
-\i (00:00:42) FORM padedit parameters  
-\i (00:00:45) pse_exit
-\t (00:00:45)     Journal end - Thu Jun 06 11:07:10 2013
+\t (00:05:51) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:05:51)     Journal start - Fri Jun 14 18:57:48 2013
+\t (00:05:51)         Host=ADM5656-PC User=adm5656 Pid=368 CPUs=4
+\t (00:05:51) 
+\i (00:05:53) FORM padedit layers  
+\i (00:06:21) pse_open 
+\i (00:06:31) fillin "smd60x157.pad"
+\i (00:06:38) FORM padedit grid row begin_layer 
+\i (00:06:42) FORM padedit grid row soldermask_top 
+\i (00:06:48) FORM padedit grid row pastemask_top 
+\i (01:04:46) pse_open 
+\i (01:04:57) fillin "dip_circle_80_55.pad"
+\i (01:04:57) FORM padedit grid row pastemask_top 
+\i (01:04:59) FORM padedit parameters  
+\i (01:05:01) FORM padedit layers  
+\i (02:08:00) FORM padedit parameters  
+\i (02:08:03) pse_open 
+\i (02:08:20) fillin "menu_cancel"
+\i (02:23:20) pse_exit
+\t (02:23:20)     Journal end - Fri Jun 14 21:15:17 2013
