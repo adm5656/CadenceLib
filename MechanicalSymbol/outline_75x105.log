@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : outline_75x105.dra                            )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Apr 15 11:22:02 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = F:/workspace/cadence_lib_file/outline_symbol
+    Name      = outline_75x105.bsm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

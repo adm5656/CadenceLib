@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : outline_sqa_77x45.dra                         )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Sep 06 16:42:22 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/workspace/cadence_lib_file/outline_symbol
+    Name      = outline_sqa_77x45.bsm
+    User      = core
+    Machine   = CORE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
